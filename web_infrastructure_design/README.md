@@ -31,4 +31,4 @@ General
 
 ## Simple web stack
 
-<img src="https://drive.google.com/uc?id=1N-lBET2CSlQAtLepWKbtKcX-D6n7tLDr">
+<img src="https://drive.google.com/uc?id=15W5XIY2-8dHzEEsRmp7eAYIa55uIqtzh">
