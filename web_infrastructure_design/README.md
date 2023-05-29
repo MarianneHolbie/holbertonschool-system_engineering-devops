@@ -36,3 +36,7 @@ General
 ## Distributed web infrastructure
 
 <img src="https://drive.google.com/uc?id=1jUkeacNRJbKldG0pJqKbGXurPTOuX5GK">
+
+## Secured and monitored web infrastructure
+
+<img src="https://drive.google.com/uc?id=1TGFNVm7If17XIQFuub8qvuSk-h-_iPBr">
