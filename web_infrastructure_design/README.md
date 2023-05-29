@@ -32,3 +32,7 @@ General
 ## Simple web stack
 
 <img src="https://drive.google.com/uc?id=15W5XIY2-8dHzEEsRmp7eAYIa55uIqtzh">
+
+## Distributed web infrastructure
+
+<img src="https://drive.google.com/uc?id=1jUkeacNRJbKldG0pJqKbGXurPTOuX5GK">
