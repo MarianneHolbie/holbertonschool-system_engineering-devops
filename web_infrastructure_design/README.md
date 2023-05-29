@@ -40,3 +40,7 @@ General
 ## Secured and monitored web infrastructure
 
 <img src="https://drive.google.com/uc?id=1TGFNVm7If17XIQFuub8qvuSk-h-_iPBr">
+
+## Scale up
+
+<img src="https://drive.google.com/uc?id=1r07a3OY7RE6M99Oig2NI0HShGU9iwvmP">
